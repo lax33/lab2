@@ -1,0 +1,111 @@
+﻿object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 201
+  ClientWidth = 515
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 50
+    Top = 19
+    Width = 18
+    Height = 13
+    Caption = 'D ='
+  end
+  object Label2: TLabel
+    Left = 47
+    Top = 51
+    Width = 21
+    Height = 13
+    Caption = 'C = '
+  end
+  object Label3: TLabel
+    Left = 48
+    Top = 83
+    Width = 20
+    Height = 13
+    Caption = 'Z = '
+  end
+  object Edit1: TEdit
+    Left = 88
+    Top = 16
+    Width = 121
+    Height = 21
+    TabOrder = 0
+    Text = 'Edit1'
+  end
+  object Edit2: TEdit
+    Left = 88
+    Top = 48
+    Width = 121
+    Height = 21
+    TabOrder = 1
+    Text = 'Edit2'
+  end
+  object Edit3: TEdit
+    Left = 88
+    Top = 75
+    Width = 121
+    Height = 21
+    TabOrder = 2
+    Text = 'Edit3'
+  end
+  object Memo1: TMemo
+    Left = 304
+    Top = 16
+    Width = 185
+    Height = 89
+    Lines.Strings = (
+      'Memo1')
+    TabOrder = 3
+  end
+  object Вычислить: TButton
+    Left = 88
+    Top = 119
+    Width = 385
+    Height = 41
+    Caption = #1042#1099#1095#1080#1089#1083#1080#1090#1100
+    TabOrder = 4
+    OnClick = ВычислитьClick
+  end
+  object RadioGroup1: TRadioGroup
+    Left = 215
+    Top = 8
+    Width = 83
+    Height = 105
+    Caption = 'RadioGroup1'
+    TabOrder = 5
+  end
+  object RadioButton1: TRadioButton
+    Left = 232
+    Top = 33
+    Width = 49
+    Height = 17
+    Caption = '2X'
+    TabOrder = 6
+  end
+  object RadioButton2: TRadioButton
+    Left = 232
+    Top = 57
+    Width = 49
+    Height = 17
+    Caption = 'X^2'
+    TabOrder = 7
+  end
+  object RadioButton3: TRadioButton
+    Left = 232
+    Top = 80
+    Width = 49
+    Height = 17
+    Caption = 'X/3'
+    TabOrder = 8
+  end
+end

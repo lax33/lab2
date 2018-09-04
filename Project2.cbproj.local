@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.527,=C:\Users\hag\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.564,=C:\Users\hag\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018.09.04 22:44:45.120,=C:\Users\hag\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2018.09.04 22:44:45.145,=C:\Users\hag\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018.09.04 22:50:25.116,D:\1 GIT 1\lab2\Unit1.cpp=C:\Users\hag\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018.09.04 22:50:25.116,D:\1 GIT 1\lab2\Unit1.dfm=C:\Users\hag\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018.09.04 22:50:25.116,D:\1 GIT 1\lab2\Unit1.h=C:\Users\hag\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2018.09.04 22:50:27.644,D:\1 GIT 1\lab2\Project2PCH1.h=C:\Users\hag\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2018.09.04 22:50:30.631,D:\1 GIT 1\lab2\Project2.cbproj=C:\Users\hag\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
